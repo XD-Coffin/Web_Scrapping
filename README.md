@@ -28,5 +28,4 @@ The folowing program has only been tested in linux distribution:
 To use the following program in windows env just replace "clear" as "cls" from the code and you are good to go.
 
 
-
-                                                                                          Coded By Sahil Singh.
+Coded By Sahil Singh.
